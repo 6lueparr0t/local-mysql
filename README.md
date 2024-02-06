@@ -7,7 +7,7 @@
 cd mysql
 docker-compose up -d
 
-# http://localhost:8081/?server=mysql%3A3306
+# http://localhost:8082/?server=mysql%3A3306
 
 #
 # Adminer Login Info
